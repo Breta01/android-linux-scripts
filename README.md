@@ -3,7 +3,7 @@ This repository contains scripts for setting up an environment in the [GNURoot D
 
 So far there are scripts for setting up:
 
- - [Jupyter notebook](com/Breta01/android-linux-scripts#Jupyter-Notebook)
+ - [Jupyter notebook](https://github.com/Breta01/android-linux-scripts#jupyter-notebook)
 
 ## Jupyter Notebook
 *This scripts is actual for app version 0.6.8 and Python 3.4.2.*
