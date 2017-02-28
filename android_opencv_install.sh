@@ -1,6 +1,6 @@
 #!/bin/bash
 ### This script will build and install OpenCV 3.2.0
-### for python 3
+### for both python 3 and python 2
 
 # Update
 apt-get update && apt-get upgrade -y
