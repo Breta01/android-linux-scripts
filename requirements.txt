@@ -45,7 +45,7 @@ qtconsole==4.2.1
 requests==2.4.3
 scipy==0.14.0
 simplegeneric==0.8.1
-six==1.8.0
+six==1.9.0
 sympy==1.0
 tables==3.1.1
 terminado==0.6
@@ -54,4 +54,4 @@ tornado==4.4.2
 traitlets==4.3.2
 urllib3==1.9.1
 wcwidth==0.1.7
-widgetsnbextension==1.2.6
+widgetsnbextension==2.0.0
