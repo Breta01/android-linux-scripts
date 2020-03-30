@@ -1,7 +1,7 @@
 appdirs==1.4.2
 backports-abc==0.5
 beautifulsoup4==4.3.2
-bleach==3.1.2
+bleach==3.1.4
 chardet==2.3.0
 colorama==0.3.2
 decorator==4.0.11
